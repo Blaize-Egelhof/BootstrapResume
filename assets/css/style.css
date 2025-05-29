@@ -109,6 +109,19 @@ h4 {
 
 /*--------------------------------------------Heading*/
 
+.image-wrapper {
+  height: 100%; /* or a fixed height like 300px */
+  padding: 1rem;
+}
+
+.profile-img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #989494;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
 header {
     margin: 0;
 }
